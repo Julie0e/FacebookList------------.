@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>55C56CDC-F2E5-4143-9D74-E0E8C61B0E29</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FacebookList</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BEEDCE3A-BAF4-4892-9B4A-5C16FDEB4292</key>
+		<string>https://github.com/Julie0e/FacebookList------------..git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FacebookList.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BEEDCE3A-BAF4-4892-9B4A-5C16FDEB4292</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Julie0e/FacebookList------------..git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BEEDCE3A-BAF4-4892-9B4A-5C16FDEB4292</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BEEDCE3A-BAF4-4892-9B4A-5C16FDEB4292</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FacebookList</string>
+		</dict>
+	</array>
+</dict>
+</plist>
