@@ -9,6 +9,7 @@
 #import "ViewController.h"
 #import <Social/Social.h>
 #import <Accounts/Accounts.h>
+#import <FacebookSDK/FacebookSDK.h>
 
 #define FACEBOOK_APPID @"1405220066393435"
 
@@ -25,6 +26,31 @@
 
 - (void)showFriendsList
 {
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     ACAccountStore *store = [[ACAccountStore alloc] init];
     ACAccountType *accountType = [store accountTypeWithAccountTypeIdentifier:ACAccountTypeIdentifierFacebook];
     NSDictionary *options = @{ACFacebookAppIdKey:FACEBOOK_APPID,

@@ -38,6 +38,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
+                    <navigationItem key="navigationItem" id="Bne-PX-UJc"/>
                     <connections>
                         <outlet property="table" destination="EWJ-7D-Fs1" id="CFd-e0-GyG"/>
                     </connections>
